@@ -1829,7 +1829,6 @@
       "origem": "nacional",
       "mao": "cg63.jpg"
     },
-    false,
     {
       "id": "124",
       "palavra": "AÇOUGUE",
@@ -2505,7 +2504,6 @@
       "origem": "nacional",
       "mao": "cg01.jpg"
     },
-    false,
     {
       "id": "170",
       "palavra": "ADVERTIR1",
@@ -8416,7 +8414,6 @@
       "origem": "nacional",
       "mao": "cg62.jpg"
     },
-    false,
     {
       "id": "565",
       "palavra": "ASCENDER",
@@ -8867,7 +8864,6 @@
       "origem": "nacional",
       "mao": "cg49.jpg"
     },
-    false,
     {
       "id": "596",
       "palavra": "ASSOCIAÇÃO",
@@ -12348,7 +12344,6 @@
       "origem": "nacional",
       "mao": "cg33.jpg"
     },
-    false,
     {
       "id": "829",
       "palavra": "BERRANTE",
@@ -12454,7 +12449,6 @@
       "origem": "nacional",
       "mao": "cg40.jpg"
     },
-    false,
     {
       "id": "837",
       "palavra": "BIBLIOGRAFIA",
@@ -12800,7 +12794,6 @@
       "origem": "nacional",
       "mao": "cg61.jpg"
     },
-    false,
     {
       "id": "861",
       "palavra": "BISAVÓ",
@@ -13611,7 +13604,6 @@
       "origem": "nacional",
       "mao": "cg02.jpg"
     },
-    false,
     {
       "id": "916",
       "palavra": "BOMBEIRO",
@@ -13987,7 +13979,6 @@
       "origem": "nacional",
       "mao": "cg14.jpg"
     },
-    false,
     {
       "id": "942",
       "palavra": "BRADAR",
@@ -14888,7 +14879,6 @@
       "origem": "nacional",
       "mao": "cg15.jpg"
     },
-    false,
     {
       "id": "1003",
       "palavra": "CABO1",
@@ -15984,8 +15974,6 @@
       "origem": "nacional",
       "mao": "cg15.jpg"
     },
-    false,
-    false,
     {
       "id": "1078",
       "palavra": "CAMBALEAR",
@@ -16016,7 +16004,6 @@
       "origem": "nacional",
       "mao": "cg62.jpg"
     },
-    false,
     {
       "id": "1081",
       "palavra": "CÂMERA DE VIGILÂNCIA",
@@ -16332,7 +16319,6 @@
       "origem": "nacional",
       "mao": "cg14.jpg"
     },
-    false,
     {
       "id": "1103",
       "palavra": "CANADENSE",
@@ -16573,7 +16559,6 @@
       "origem": "nacional",
       "mao": "cg49.jpg"
     },
-    false,
     {
       "id": "1120",
       "palavra": "CANSAÇO",
@@ -17009,7 +16994,6 @@
       "origem": "nacional",
       "mao": "cg47.jpg"
     },
-    false,
     {
       "id": "1150",
       "palavra": "CARATÊ",
@@ -17130,7 +17114,6 @@
       "origem": "nacional",
       "mao": "cg64.jpg"
     },
-    false,
     {
       "id": "1159",
       "palavra": "CARNE",
@@ -18856,7 +18839,6 @@
       "origem": "nacional",
       "mao": "cg40.jpg"
     },
-    false,
     {
       "id": "1275",
       "palavra": "CHEGAR1",
@@ -20462,7 +20444,6 @@
       "origem": "nacional",
       "mao": "cg51b.jpg"
     },
-    false,
     {
       "id": "1383",
       "palavra": "COFRE",
@@ -20583,7 +20564,6 @@
       "origem": "nacional",
       "mao": "cg35a.jpg"
     },
-    false,
     {
       "id": "1392",
       "palavra": "COLA1",
@@ -20914,7 +20894,6 @@
       "origem": "nacional",
       "mao": "cg08b.jpg"
     },
-    false,
     {
       "id": "1415",
       "palavra": "COMA",
@@ -21965,8 +21944,6 @@
       "origem": "nacional",
       "mao": "cg08a.jpg"
     },
-    false,
-    false,
     {
       "id": "1487",
       "palavra": "CONFERENCIAR",
@@ -22537,7 +22514,6 @@
       "origem": "nacional",
       "mao": "cg02.jpg"
     },
-    false,
     {
       "id": "1526",
       "palavra": "CONSULTAR",
@@ -22898,7 +22874,6 @@
       "origem": "nacional",
       "mao": "cg14.jpg"
     },
-    false,
     {
       "id": "1551",
       "palavra": "CONTRATAR1",
@@ -23259,7 +23234,6 @@
       "origem": "nacional",
       "mao": "cg57.jpg"
     },
-    false,
     {
       "id": "1576",
       "palavra": "CORCOVADO",
@@ -24340,7 +24314,6 @@
       "origem": "nacional",
       "mao": "cg11.jpg"
     },
-    false,
     {
       "id": "1649",
       "palavra": "CRUCIFICAÇÃO",
@@ -24866,7 +24839,6 @@
       "origem": "nacional",
       "mao": "cg53b.jpg"
     },
-    false,
     {
       "id": "1685",
       "palavra": "CURVAR",
@@ -24912,7 +24884,6 @@
       "origem": "nacional",
       "mao": "cg20.jpg"
     },
-    false,
     {
       "id": "1689",
       "palavra": "D",
@@ -25183,7 +25154,6 @@
       "origem": "nacional",
       "mao": "cg47.jpg"
     },
-    false,
     {
       "id": "1708",
       "palavra": "DATILOLOGIA",
@@ -34919,7 +34889,6 @@
         "origem": "nacional",
         "mao": "cg14.jpg"
     },
-    false,
     {
         "id": "2358",
         "palavra": "EVACUAR",
@@ -35655,7 +35624,6 @@
         "origem": "nacional",
         "mao": "cg47.jpg"
     },
-    false,
     {
         "id": "2408",
         "palavra": "EXTRAVIAR",
@@ -35686,7 +35654,6 @@
         "origem": "nacional",
         "mao": "cg54.jpg"
     },
-    false,
     {
         "id": "2411",
         "palavra": "FÁBRICA",
@@ -36917,7 +36884,6 @@
         "origem": "nacional",
         "mao": "cg54.jpg"
     },
-    false,
     {
         "id": "2494",
         "palavra": "FÊMEA",
@@ -36948,7 +36914,6 @@
         "origem": "nacional",
         "mao": "cg07.jpg"
     },
-    false,
     {
         "id": "2497",
         "palavra": "FERIADO",
@@ -40804,7 +40769,6 @@
         "origem": "nacional",
         "mao": "cg47.jpg"
     },
-    false,
     {
         "id": "2755",
         "palavra": "GOLFINHO",
@@ -42260,7 +42224,6 @@
         "origem": "nacional",
         "mao": "cg45.jpg"
     },
-    false,
     {
         "id": "2853",
         "palavra": "HEREDITÁRIO",
@@ -44857,7 +44820,6 @@
         "origem": "nacional",
         "mao": "cg31.jpg"
     },
-    false,
     {
         "id": "3027",
         "palavra": "INTERCÂMBIO",
@@ -46223,8 +46185,6 @@
         "origem": "nacional",
         "mao": "cg19.jpg"
     },
-    false,
-    false,
     {
         "id": "3120",
         "palavra": "JOGADO",
@@ -47545,7 +47505,6 @@
         "origem": "nacional",
         "mao": "cg15.jpg"
     },
-    false,
     {
         "id": "3209",
         "palavra": "LAR",
@@ -49841,7 +49800,6 @@
         "origem": "nacional",
         "mao": "cg31.jpg"
     },
-    false,
     {
         "id": "3363",
         "palavra": "LONGE1",
@@ -50352,7 +50310,6 @@
         "origem": "nacional",
         "mao": "cg51a.jpg"
     },
-    false,
     {
         "id": "3398",
         "palavra": "MACACÃO",
@@ -50788,7 +50745,6 @@
         "origem": "nacional",
         "mao": "cg38.jpg"
     },
-    false,
     {
         "id": "3428",
         "palavra": "MAIO",
@@ -56294,7 +56250,6 @@
         "origem": "nacional",
         "mao": "cg27.jpg"
     },
-    false,
     {
         "id": "3796",
         "palavra": "NORUEGA",
@@ -57645,8 +57600,6 @@
         "origem": "nacional",
         "mao": "cg02.jpg"
     },
-    false,
-    false,
     {
         "id": "3888",
         "palavra": "OLEOSO",
@@ -60182,7 +60135,6 @@
         "origem": "nacional",
         "mao": "cg64.jpg"
     },
-    false,
     {
         "id": "4058",
         "palavra": "PARALISIA CEREBRAL",
@@ -61248,8 +61200,6 @@
         "origem": "nacional",
         "mao": "cg01.jpg"
     },
-    false,
-    false,
     {
         "id": "4131",
         "palavra": "PÉ-DE-PATO",
@@ -64235,7 +64185,6 @@
         "origem": "nacional",
         "mao": "cg64.jpg"
     },
-    false,
     {
         "id": "4331",
         "palavra": "PÓ1",
@@ -64446,7 +64395,6 @@
         "origem": "nacional",
         "mao": "cg57.jpg"
     },
-    false,
     {
         "id": "4346",
         "palavra": "POLEGAR",
@@ -64567,7 +64515,6 @@
         "origem": "nacional",
         "mao": "cg27.jpg"
     },
-    false,
     {
         "id": "4355",
         "palavra": "POLÍTICA",
@@ -70508,7 +70455,6 @@
         "origem": "nacional",
         "mao": "cg14.jpg"
     },
-    false,
     {
         "id": "4752",
         "palavra": "RECOLHER",
@@ -75714,7 +75660,6 @@
         "origem": "nacional",
         "mao": "cg62.jpg"
     },
-    false,
     {
         "id": "5100",
         "palavra": "SERVIÇO",
@@ -76885,7 +76830,6 @@
         "origem": "nacional",
         "mao": "cg53b.jpg"
     },
-    false,
     {
         "id": "5179",
         "palavra": "SOPRAR",
@@ -79511,7 +79455,6 @@
         "origem": "nacional",
         "mao": "cg02.jpg"
     },
-    false,
     {
         "id": "5355",
         "palavra": "TOBOGÃ",
@@ -81522,7 +81465,6 @@
         "origem": "nacional",
         "mao": "cg64.jpg"
     },
-    false,
     {
         "id": "5490",
         "palavra": "TUBARÃO",
@@ -81748,7 +81690,6 @@
         "origem": "nacional",
         "mao": "cg64.jpg"
     },
-    false,
     {
         "id": "5506",
         "palavra": "UÍSQUE",
@@ -82259,8 +82200,6 @@
         "origem": "nacional",
         "mao": "cg40.jpg"
     },
-    false,
-    false,
     {
         "id": "5542",
         "palavra": "URSO1",
@@ -86506,4 +86445,4 @@
         "origem": "nacional",
         "mao": "cg53a.jpg"
     }
-    ]
+]
